@@ -1,7 +1,9 @@
 ## Environment 
+Required packages:
 ```
 numpy
 pandas
+matplotlib
 ```
 
 ## Data source
