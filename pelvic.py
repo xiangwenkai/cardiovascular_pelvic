@@ -1,14 +1,7 @@
-import copy
-
 import pandas as pd
 import numpy as np
 import os
 import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy import stats
-import statsmodels.stats.multicomp as mc
-import subprocess
-import scipy
 
 
 def is_pelvic(x):
